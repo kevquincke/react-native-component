@@ -9,7 +9,7 @@ Generate skeletons for react native components
 with the following structure:
 ```
 |- ComponentName
-|--- index.js
+|--- generic.js
 |--- styles.js
 ```
 
