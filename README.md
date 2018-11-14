@@ -8,9 +8,10 @@ Generate skeletons for react native components
 **Note:** this package assumes you use components
 with the following structure:
 ```
-|- ComponentName
-|--- generic.js
-|--- styles.js
+.
+├── ComponentName
+     ├── index.js
+     ├── styles.js  
 ```
 
 ## Installation

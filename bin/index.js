@@ -8,7 +8,7 @@ const mainProgram = function() {
     .option('-n, --name [value]', 'Name for the component', '')
     .option('-s, --stateless', 'Generate a stateless component')
     .option('-p, --path [value]', 'Path of new component', '')
-    .version('0.1.0', '-v, --version')
+    .version('0.1.8', '-v, --version')
     .parse(process.argv);
 
   const { name, stateless, path } = program;
