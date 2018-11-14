@@ -1,0 +1,27 @@
+{
+  "name": "react-native-component",
+  "version": "0.1.8",
+  "description": "Generate skeletons for react native components",
+  "main": "./lib/fileHandler.js",
+  "bin": {
+    "react-native-component": "./bin/index.js"
+  },
+  "keywords": [
+    "react native",
+    "javascript",
+    "generator",
+    "component skeleton"
+  ],
+  "author": "Kevin Quincke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevquincke/react-native-component/issues"
+  },
+  "homepage": "https://github.com/kevquincke/react-native-component#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "commander": "^2.19.0",
+    "fs-extra": "^7.0.1",
+    "replace-in-file": "^3.4.2"
+  }
+}
