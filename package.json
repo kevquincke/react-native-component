@@ -1,6 +1,6 @@
 {
   "name": "react-native-component",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Generate skeletons for react native components",
   "main": "./lib/fileHandler.js",
   "bin": {
