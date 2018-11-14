@@ -51,6 +51,6 @@ react-native-component -n Login
 component in a specific path
 
 ``
-react-native-component -n Button -p components/Common
+react-native-component -n Button -p components/Common -s
 ``
 
